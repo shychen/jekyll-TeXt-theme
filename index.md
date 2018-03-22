@@ -1,3 +1,11 @@
+---
+layout: page
+titles:
+  en: Blog
+  zh: 博客
+  zh-Hans: 博客
+  zh-Hant: 博客
+---
 
 ## __Shiying Chen &emsp; 陈世瑛__
 
@@ -53,6 +61,4 @@
 
 &emsp;&emsp;Chinese Kong Fu, reading, climbing, travelling, badminton and so on.
 
-__-------------------__
-
-
+-------------------
