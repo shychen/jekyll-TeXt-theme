@@ -1,5 +1,3 @@
-# Shiying Chen &emsp; 陈世瑛
-
 ## __Master Candidate__
 &emsp;&emsp;School of Electrical engineering  
 &emsp;&emsp;Xi'an Jiaotong University  
