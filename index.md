@@ -1,11 +1,3 @@
----
-layout: page
-titles:
-  en: Blog
-  zh: 博客
-  zh-Hans: 博客
-  zh-Hant: 博客
----
 
 # __Shiying Chen &emsp; 陈世瑛__
 
