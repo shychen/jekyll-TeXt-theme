@@ -8,7 +8,7 @@ titles:
 ---
 
 
-* Third Prize of the China graduate electronics design contest in Northwest Division, 2017.
+* Third Prize of the China graduate electronics design contest in Northwest Division, 2017
 
 * First Prize of the Sixth and Fifth National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction in Shandong University, respectively in 2015 and 2014.
 
