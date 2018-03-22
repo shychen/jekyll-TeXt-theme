@@ -37,8 +37,8 @@ titles:
 
 ### __Selected Social Practice and Contributions__
 #### __10/2012-07/2016&emsp;Dandelion Youth Public Welfare Development Center__
-####* Serving as a volunteer teacher three times in Primary Schools respectively in Longnan, Gansu Province (January 2013), Weifang, Shandong Province (July 2013) and Ji’an, Jiangxi Province (January 2014).
-#### * Serving as the secretary general of the center (March 2016 to July 2016). The main duties are improving the education condition in backward areas of China, building communication platform for volunteers and spreading the spirit of volunteer service.
+* Serving as a volunteer teacher three times in Primary Schools respectively in Longnan, Gansu Province (January 2013), Weifang, Shandong Province (July 2013) and Ji’an, Jiangxi Province (January 2014).
+* Serving as the secretary general of the center (March 2016 to July 2016). The main duties are improving the education condition in backward areas of China, building communication platform for volunteers and spreading the spirit of volunteer service.
 
 #### __04/2017-now&emsp;Beijing Enjoy Volunteering Center of Youth Development__
 * Serving as a volunteer trainer and spreading the mode of volunteer teaching designed by the center.
