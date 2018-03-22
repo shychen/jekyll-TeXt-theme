@@ -10,9 +10,9 @@ titles:
 # __Shiying Chen &emsp; 陈世瑛__
 
 ## __Master Candidate__
-&emsp;&emsp;School of Electrical engineering 
-&emsp;&emsp;Xi'an Jiaotong University 
-&emsp;&emsp;Xi'an, Shaanxi, China 
+&emsp;&emsp;School of Electrical engineering  
+&emsp;&emsp;Xi'an Jiaotong University  
+&emsp;&emsp;Xi'an, Shaanxi, China  
 
 &emsp;&emsp;Email: shychen2016@gmail.com
 
@@ -36,11 +36,11 @@ titles:
 * Research on structure and electrical properties of graphene and its application in lithium ion batteries, supervised by Professor Yutian Liu. (October to December, 2012)
 
 ## __Selected Social Practice and Contributions__
-#### __10/2012-07/2016 Dandelion Youth Public Welfare Development Center__
+#### __10/2012-07/2016&emsp;Dandelion Youth Public Welfare Development Center__
 * Serving as a volunteer teacher three times in Primary Schools respectively in Longnan, Gansu Province (January 2013), Weifang, Shandong Province (July 2013) and Ji’an, Jiangxi Province (January 2014).
 * Serving as the secretary general of the center (March 2016 to July 2016). The main duties are improving the education condition in backward areas of China, building communication platform for volunteers and spreading the spirit of volunteer service.
 
-#### __04/2017-now Beijing Enjoy Volunteering Center of Youth Development__
+#### __04/2017-now&emsp;Beijing Enjoy Volunteering Center of Youth Development__
 * Serving as a volunteer trainer and spreading the mode of volunteer teaching designed by the center.
 * Serving as the president of the Xi’an Branch of the center.
 
